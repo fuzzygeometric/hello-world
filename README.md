@@ -6,7 +6,7 @@ I am an Integrated Media Artist at Hunter College approaching my Masters thesis 
 I use [conformal science](https://jila.colorado.edu/~ajsh/insidebh/penrose.html) to apply healing correlations and data practice like yoga and programming.
 I use a [sound color synesthesia](https://en.wikipedia.org/wiki/Chromesthesia) to categorize frameworks for a comfortable nondual baseline based in sound and color technology awareness I call a Matrice. 
 
-#test-area
+#test-area-2
 -edit1
 Matrice link
 
