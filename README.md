@@ -5,5 +5,5 @@ I am an Integrated Media Artist at Hunter College approaching my Masters thesis 
 I use conformal science to apply healing cybernetics and data practice like yoga and programming.
 I use a sound color synesthesia to categorize frameworks for a comfortable baseline based in sound and color technology awareness. 
 
-I want to address questions of access to different learning languages for community to grow comfortably in with my work. I need to make a pull request but havent made a diff yet. Had to be extra so you know the kind of way we could relate. and i hate capitalizing
+I want to address questions of access to different learning languages for community to grow comfortably in with my work. 
 
