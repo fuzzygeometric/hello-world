@@ -5,22 +5,22 @@ A place where danielle Gauthier stores ideas and resources to share and discuss 
 I am an Integrated Media Artist at Hunter College approaching my Masters thesis in Cybernetics, the art and science of systems of control and communication in living beings and machines. I use a matrix of coded poetry to quantify a baseline using the laws of thermodynamics, with heat, work, temperature, and energy. 
 
 ### Thermodynamic Baseline
-The zeroeth law says if there is a constant temperature, there is an equilibrium. I am curious about states of stillness and how they relate to states of change. Why do I find I resist stillness? How can I find rest?
+The zeroeth law says if there is a constant temperature, there is an equilibrium. I am curious about states of stillness and how they relate to states of change. Why do I find I resist stillness? How can I find rest?  Something about a polynomial, an equation with variables.
 
 The first law says energy can transform, but is never created nor destroyed; so I try to conserve what I create and make renewing and reproducible products. In a collision without matter change, like a casual meet, the change in internal energy of a thermodynamic system is equal to the energy gained as heat minus the thermodynamic work done by the system on its surroundings.
 
 The second law says temperature in an isolated system is always cooling. Heat does not spontaneously flow from a colder body to a hotter body. Heat gives and cold takes. Isolation is drain and we are social beings who give to take.
 
-The third law says a temperature approaches a constant as absolute zero. As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value. We need to give heat and make a profit in order to function. 
+The third law says a temperature approaches a constant as absolute zero. Back to that polynomial, it has a constant state. As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value. The resistance to work reduces. We need to give heat and make a profit in order to function. I try to make real world discussions with my work, to make space for real people in the world.
 
 ### Cybernetics
-My work considers place and intersection in meditative scores on change. I study how constance occurs and how we interact to resist it or move with it.
-
-I reinterpret null's balanced isolation as micromovements that make a matrix of 16 particles to be able to define the boundaries of any space with a score that expands it to a given baseline. Entropy is the resistance from potential for work. I use [sound and color in a synesthesia](https://en.wikipedia.org/wiki/Chromesthesia) to read for a framework at a comfortable and dynamic or nondual baseline. I call it la matrice. To use it, I simply identify what is known to fill the parameters, then consider what is revealed by the remaining categories of what was not named present. This geometric exercise helps to balance a space by drawing in elements of what defines a baseline when it is not present.
-
-This puts me in a position that I can give space by taking it, as well as being able to share with others that perspective. Self advocacy becomes a social act. Examples include my geometric drawing workshops where I lead the documentation of a thought with representative shapes and lines to readdress it with new visual cues. My matrix, la matrice, can be found at [matrice.txt](https://github.com/fuzzygeometric/hello-world/files/10177723/matrice.txt).
+My artistic work considers place and intersection in meditative scores on change. I study how constance occurs and how we interact to resist it or move with it. I make language poetry that plays with space and time and I make digital programs that virtualize a concept like government into an interactive experience. My professional work in project management has supported underserved communities like BIPOC and people with disabilities as well as artists to transition with education. I have programmed curricula and events for social emotional learning rooted in the study of yoga.
 
 [20221207_154703000_iOS](https://user-images.githubusercontent.com/118069621/206229427-4c1fedbf-a13c-4100-8ed9-9468a85481e2.png)
+
+I reinterpret null's balanced isolation as micromovements that make the above pictured matrix of 16 particles to be able to define the boundaries of any space with a score that expands it to a given baseline. Entropy is the resistance from potential for work. I use [sound and color in a synesthesia](https://en.wikipedia.org/wiki/Chromesthesia) to read for a framework at a comfortable and dynamic or nondual baseline. I call it la matrice. To use it, I simply identify what is known to fill the parameters, then consider what is revealed by the remaining categories of what was not named present. This geometric exercise helps to balance a space by drawing in elements of what defines a baseline when it is not present.
+
+This puts me in a position that I can give space by taking it, as well as being able to share with others that perspective. Self advocacy becomes a social act. Examples include my geometric drawing workshops where I lead the documentation of a thought with representative shapes and lines to readdress it with new visual cues. My matrix, la matrice, can be found at [matrice.txt](https://github.com/fuzzygeometric/hello-world/files/10177723/matrice.txt).
 
 To use the matrix, allow associations to flow as you read or consider it.
 
