@@ -2,7 +2,11 @@
 A place where danielle Gauthier stores ideas and resources to share and discuss with others
 
 ### About Me
-I am an Integrated Media Artist at Hunter College approaching my Masters thesis in Cybernetics, the art and science of systems of control and communication in living beings and machines. I use a matrix of coded poetry to quantify a baseline using the laws of thermodynamics, with heat, work, temperature, and energy. 
+
+I like to make concrete poetry using linear drawings. My spirituality tells me we will always be changing, and in that uncomfortable stasis I use chromesthesia, or a mapping of color and sound, to center my self in my surroundings in access mode. This mapping matrix embraces me as I use it, with an ability to hear voices that inspire and guide my work. I make social emotional learning programs as scores and digital interfaces to explore how we can better address our boundaries alone and in a group setting at a colonial framework.
+
+### Biography:
+danielle Gauthier is a net artist who specializes in poetry with creative software use. Her poems about feminine fragility have been featured on Gurls Talk and by University of Cambridge’s Frankly Speaking journal. She also published an article about homelessness and mental health in The New School Riggio Honors Writing Program’s 12th Street Journal. destructive proof of utopia was a collection of dramatic voices and collage in a digital map featured on Integrated Channels Exibition by CUNY Hunter College. the (womb)’s recepticle is a conformal baseline mapping table featured by CUNY Hunter College Studio Quarterly. le retour ouvert is a meditative score published in print by the School for Poetic Computation.
 
 ### Thermodynamic Baseline
 The zeroeth law says if there is a constant temperature, there is an equilibrium. I am curious about states of stillness and how they relate to states of change. Why do I find I resist stillness? How can I find rest?  Something about a polynomial, an equation with variables.
