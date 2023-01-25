@@ -8,15 +8,6 @@ I like to make concrete poetry using linear drawings. My spirituality tells me w
 ### Biography:
 danielle Gauthier is a net artist who specializes in poetry with creative software use. Her poems about feminine power have been featured on Gurls Talk and by University of Cambridge’s Frankly Speaking journal. She also published an article about homelessness and mental health in The New School Riggio Honors Writing Program’s 12th Street Journal. destructive proof of utopia was a collection of dramatic voices and collage in a digital map featured on Integrated Channels Exibition by CUNY Hunter College. [the (womb)’s recepticle](https://editor.p5js.org/danielle.gauthier6/full/qWz3DjxpN) is a conformal baseline mapping table featured by CUNY Hunter College Studio Quarterly. le retour ouvert is a meditative score published in print by the School for Poetic Computation.
 
-### Thermodynamic Baseline
-The zeroeth law says if there is a constant temperature, there is an equilibrium. I am curious about states of stillness and how they relate to states of change. Why do I find I resist stillness? How can I find rest?  Something about a polynomial, an equation with variables.
-
-The first law says energy can transform, but is never created nor destroyed; so I try to conserve what I create and make renewing and reproducible products. In a collision without matter change, like a casual meet, the change in internal energy of a thermodynamic system is equal to the energy gained as heat minus the thermodynamic work done by the system on its surroundings.
-
-The second law says temperature in an isolated system is always cooling. Heat does not spontaneously flow from a colder body to a hotter body. Heat gives and cold takes. Isolation is drain and we are social beings who give to take.
-
-The third law says a temperature approaches a constant as absolute zero. Back to that polynomial, it has a constant state. As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value. The resistance to work reduces. We need to give heat and make a profit in order to function. I try to make real world discussions with my work, to make space for real people in the world.
-
 ### Cybernetics
 My artistic work considers place and intersection in meditative scores on change. I study how constance occurs and how we interact to resist it or move with it. I make language poetry that plays with space and time and I make digital programs that virtualize a concept like government into an interactive experience. My professional work in project management has supported underserved communities like BIPOC and people with disabilities as well as artists to transition with education. I have programmed curricula and events for social emotional learning rooted in the study of yoga.
 
